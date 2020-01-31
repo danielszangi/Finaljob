@@ -6,7 +6,7 @@
 	for(i=0;i<5;i++)
 	{
   %>
-      <h2>jsp is awsome!</h2>
+      <h2>hello!</h2>
 	  
   <%
     }
